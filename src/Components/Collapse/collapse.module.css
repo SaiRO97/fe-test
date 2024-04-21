@@ -1,0 +1,8 @@
+.collapse_wrapper {
+  display: flex;
+  cursor: pointer;
+}
+
+.collapse_wrapper_header {
+  margin-left: 4px;
+}
